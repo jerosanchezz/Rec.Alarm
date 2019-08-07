@@ -2,6 +2,12 @@
 
 An evil iOS alarm clock app that allows the user to record voice notes to themselves which are played after the alarm goes off. There is the option to use math problems to snooze the alarm or a simple snooze button.
 
+# Contact Us
+
+If you have any questions or suggestions about our app, do not hesitate to contact us.
+
+Email: fxiaoding@gmail.com
+
 ## Privacy Policy
 
 This software respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, the Software will use and disclose your personal information in accordance with this Privacy Policy. However, the software will treat this information with a high degree of diligence and care. Except as otherwise provided in this Privacy Policy, the Software will not disclose or provide such information to third parties without your prior permission. This software will update this Privacy Policy from time to time. By agreeing to the Software Services Use Agreement, you agree to the entire contents of this Privacy Policy. This Privacy Policy is an integral part of this Software Services Use Agreement.
